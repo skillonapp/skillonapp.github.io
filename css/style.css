@@ -307,3 +307,26 @@ margin-top:40px;
 }
 
 }
+
+.why{
+background:#ffffff;
+}
+
+.why h2{
+margin-bottom:60px;
+}
+
+.why .card{
+text-align:center;
+padding:40px;
+}
+
+.why .card h3{
+font-size:28px;
+margin-bottom:20px;
+}
+
+.why .card p{
+font-size:17px;
+color:#666;
+}
