@@ -357,3 +357,21 @@ color:#666;
 font-size:17px;
 line-height:1.8;
 }
+
+#download{
+text-align:center;
+background:linear-gradient(135deg,#0A192F,#112240);
+color:white;
+}
+
+#download h2{
+color:white;
+}
+
+#download p{
+max-width:700px;
+margin:auto;
+margin-bottom:40px;
+color:#CCD6F6;
+font-size:18px;
+}
